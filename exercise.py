@@ -8,5 +8,5 @@ def main():
     x,y,z = map(int, input("Enter 3 numbers").split())
     print("the maximum from the three is", find_max(x,y,z ))
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
