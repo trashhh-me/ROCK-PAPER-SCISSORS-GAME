@@ -1,2 +1,2 @@
 # ROCK-PAPER-SCISSORS-GAME
-ROCK PAPER SCISSORS
+Go to rock_paper_scissor branch
